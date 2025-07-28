@@ -1,0 +1,16 @@
+
+
+DOM = Document Object Model
+
+CREATE
+READ
+UPDATE
+DELETE
+
+createElement()
+prepend()
+appendChild()
+insertBefore()
+querySelector()
+
+body.insertBefore(pElement, anchorTag)
